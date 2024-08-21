@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Samuel Ben David (@sbendavid)
+### 👋 Hi there, I'm Samuel Ben-David (@sbendavid)
 
 I am a passionate Software Developer with a keen interest in building scalable and efficient applications. Currently, I'm diving deep into Python for Data Science to expand my skill set and explore new opportunities in the field.
 
