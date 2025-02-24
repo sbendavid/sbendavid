@@ -14,13 +14,10 @@
 
 📫 Reach Out:
 
-WhatsApp: [WhatsApp](https://wa.me/2348131542720) 
-
-Email: [Email](mailto:samuelbendavid01@gmail.com) 
-
-GitHub: [GitHub](https://github.com/sbendavid) 
-
-LinkedIn: [LinkedIn](www.linkedin.com/in/ben-david-samuel-107a86267) 
+- WhatsApp: [WhatsApp](https://wa.me/2348131542720) 
+- Email: [Email](mailto:samuelbendavid01@gmail.com) 
+- GitHub: [GitHub](https://github.com/sbendavid) 
+- LinkedIn: [LinkedIn](www.linkedin.com/in/ben-david-samuel-107a86267) 
 
 <!---
 sbendavid/sbendavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
