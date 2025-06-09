@@ -3,7 +3,7 @@
 🚀 What I Do:
 
 - **Backend Development:** Django, Flask, Node.js, Express.js.
-- **Frontend Development:** React, React Native.
+- **Frontend Development:** React.Js, React Native, Next.js.
 - **Database Management:** SQL, PostgreSQL, MongoDB.
 - **State Management:** Redux, Context API.
 - **Other Skills:** RESTful APIs, Authentication, Payment Integration (Paystack), Cloud Services.
