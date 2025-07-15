@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Samuel Ben-David (@sbendavid)
+I'm### 👋 Hi there, I'm Samuel Ben-David (@sbendavid)
 
 🚀 What I Do:
 
@@ -19,6 +19,8 @@
 - Email: [Email](mailto:samuelbendavid01@gmail.com) 
 - GitHub: [GitHub](https://github.com/sbendavid) 
 - LinkedIn: [LinkedIn](www.linkedin.com/in/ben-david-samuel-107a86267) 
+- Twitter(X): [Twitter(X)](https://x.com/Ben209Ben?t=FMv5RgJpJ0Ywvn-N-Ed-3A&s=09)
+
 
 <!---
 sbendavid/sbendavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
