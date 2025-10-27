@@ -1,4 +1,4 @@
-I'm### 👋 Hi there, I'm Samuel Ben-David (@sbendavid)
+👋 Hi there, I'm Samuel Ben-David (@sbendavid)
 
 🚀 What I Do:
 
